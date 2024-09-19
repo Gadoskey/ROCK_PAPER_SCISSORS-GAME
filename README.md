@@ -74,4 +74,4 @@ I welcome contributions to improve Gadoski Web Blog! To contribute:
 
 ## ***Contact***
 
-For any questions or further information, feel free to mail me: *mustopha.yusufope@gmail.com*
+For any questions or further information, feel free to mail me @ *mustopha.yusufope@gmail.com*
